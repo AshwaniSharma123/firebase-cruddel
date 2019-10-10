@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "563843842508",
+    "firebase_url": "https://firecrudel.firebaseio.com",
+    "project_id": "firecrudel",
+    "storage_bucket": "firecrudel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563843842508:android:fdbe9916da60224f985d69",
+        "android_client_info": {
+          "package_name": "app.crudel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563843842508-4ids1cpengr6mbiqah8rdd7au9a62ihc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.crudel",
+            "certificate_hash": "788a068e604bf1d0221e7c1ddb7e0e94bdd4a0a2"
+          }
+        },
+        {
+          "client_id": "563843842508-hesk1v5q2cm3g5vjo6vro301kid37aat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_OXBxnasC3p1umJcsj-rGNOqRmURdeyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563843842508-hesk1v5q2cm3g5vjo6vro301kid37aat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
